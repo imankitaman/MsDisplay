@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="8dp"
+    android:background="#ffffff"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp">
+
+
+
+    <task.ankit.demo.RoundImageView
+        android:id="@+id/imgid"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:adjustViewBounds="true"
+        android:gravity="center_horizontal"
+        android:src="@drawable/img" />
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:id="@+id/tvtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/tvname1"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dp"
+            android:text="111"
+            android:textColor="#bbbbbb"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/tvname1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="8dp"
+            android:text="Admin"
+            android:textColor="#f03741"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tvmsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/tvname1"
+            android:layout_marginLeft="8dp"
+            android:text="Ankit"
+            android:textColor="@color/background_material_dark"
+            android:textSize="18dp" />
+    </RelativeLayout>
+
+</LinearLayout>

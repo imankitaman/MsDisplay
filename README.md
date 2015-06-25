@@ -1,0 +1,1 @@
+This project is all about send a message to swlite db. whenever you write anything and try to send the message will move to db and the list get populated. This is just a sample project just to populate list view and fetching data. 
