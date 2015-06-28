@@ -1,37 +1,38 @@
 package task.ankit.demo;
 
 import android.content.Context;
-import android.content.SharedPreferences;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.os.Environment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import java.io.File;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class CustomAdapter extends BaseAdapter {
 
     ArrayList<String> result, time;
     Context context;
+    Bitmap imgbm = null;
+    String src = "https://slack-files.com/files-tmb/T043116HE-F060B6S94-e165eab1af/ic_launcher_360.png";
 
     private static LayoutInflater inflater = null;
 
-    public CustomAdapter(MainActivity mainActivity, ArrayList<String> msgs, ArrayList<String> time) {
+    public CustomAdapter(MainActivity mainActivity, ArrayList<String> msgs, ArrayList<String> time, Bitmap imgbm) {
         // TODO Auto-generated constructor stub
         result = msgs;
         this.time = time;
+        this.imgbm = imgbm;
 
         context = mainActivity;
         inflater = (LayoutInflater) context
                 .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
+    }
+
+    public CustomAdapter(Bitmap imgbm) {
+        this.imgbm = imgbm;
     }
 
     @Override
@@ -53,53 +54,48 @@ public class CustomAdapter extends BaseAdapter {
     }
 
     public class Holder {
-        TextView tvmsg, tvtime, tvhead;
+        TextView tvmsg, tvtime;
         ImageView img;
     }
-
-    Bitmap loader;
 
     @Override
     public View getView(final int position, View convertView, ViewGroup parent) {
         // TODO Auto-generated method stub
-        Holder holder = new Holder();
-        View rowView;
-        rowView = inflater.inflate(R.layout.customlist, null);
-        holder.tvmsg = (TextView) rowView.findViewById(R.id.tvmsg);
-        holder.tvtime = (TextView) rowView.findViewById(R.id.tvtime);
-        holder.img = (ImageView) rowView.findViewById(R.id.imgid);
 
-        holder.tvmsg.setText(result.get(position));
-        holder.tvtime.setText(time.get(position));
-        // Set image Source to img.setResource from db !!!!!!!!!!!!
+        View rowView = convertView;
+        Holder vholder;
 
-        getimage(holder.img);
+            // check condition if row equal to null then execute
 
-        String path = Environment.getExternalStorageDirectory() + "/TempImages/profile.png";
-        File imgFile = new File(path);
-        if (imgFile.exists()) {
-            loader = BitmapFactory.decodeFile(imgFile.getAbsolutePath());
+        if (rowView == null) {
+
+            vholder = new Holder();
+            rowView = inflater.inflate(R.layout.customlist, null);
+            rowView.setTag(vholder);
+        } else {
+
+            vholder = (Holder) rowView.getTag();
+        }
+
+        vholder.tvmsg = (TextView) rowView.findViewById(R.id.tvmsg);
+        vholder.tvtime = (TextView) rowView.findViewById(R.id.tvtime);
+        vholder.img = (ImageView) rowView.findViewById(R.id.imgid);
+
+        vholder.tvmsg.setText(result.get(position));
+        vholder.tvtime.setText(time.get(position));
+
+      //check condition if image is equal to null then change
+        if (imgbm != null) {
+            vholder.img.setImageBitmap(imgbm);
         }
 
         return rowView;
     }
 
-    void getimage(ImageView img) {
-
-        loader = BitmapFactory.decodeResource(context.getResources(), R.drawable.img);
-        // Image url
-        String image_url = "https://slack-files.com/files-tmb/T043116HE-F060B6S94-e165eab1af/ic_launcher_360.png";
-
-        // ImageLoader class instance
-        ImageLoader imgLoader = new ImageLoader(context.getApplicationContext());
-
-        // whenever you want to load an image from url
-        // call DisplayImage function
-        // url - image url to load
-        // loader - loader image, will be displayed before getting image
-        // image - ImageView
-        imgLoader.DisplayImage(image_url, loader, img);
-
-    }
 
 }
+
+
+
+
+

@@ -21,6 +21,8 @@ public class DBHelper extends SQLiteOpenHelper {
         super(context, DATABASE_NAME, null, 1);
     }
 
+    //creating db using time as primary key
+
     @Override
     public void onCreate(SQLiteDatabase db) {
         // TODO Auto-generated method stub
@@ -30,6 +32,7 @@ public class DBHelper extends SQLiteOpenHelper {
         );
     }
 
+
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         // TODO Auto-generated method stub
@@ -37,6 +40,8 @@ public class DBHelper extends SQLiteOpenHelper {
         onCreate(db);
     }
 
+
+    //Inserting value in database with time and message
     public boolean insertMessage(String msg, StringBuilder time) {
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues contentValues = new ContentValues();
@@ -47,6 +52,7 @@ public class DBHelper extends SQLiteOpenHelper {
         return true;
     }
 
+    //fetching messages from db colume to populate list view
     public ArrayList<String> getAllMessages() {
         ArrayList<String> array_msg = new ArrayList<String>();
 
@@ -60,6 +66,11 @@ public class DBHelper extends SQLiteOpenHelper {
         }
         return array_msg;
     }
+
+    //fetching time from database to populate list view with time
+    // using split function to split time string with date and all
+    //after split fetching hour and minute
+
 
     public ArrayList<String> getAllTime() {
         ArrayList<String> array_time = new ArrayList<String>();

@@ -1,10 +1,13 @@
 <resources>
     <string name="app_name">Demo</string>
-    <string name="title_activity_main">MainActivity</string>
-
+    <string name="title_activity_main">Admin</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_image_load">ImageLoad</string>
-    <string name="title_activity_android_load_image_from_url">AndroidLoadImageFromURLActivity
-    </string>
+    <string name="title_activity_android_load_image_from_url">AndroidLoadImageFromURLActivity</string>
+    <array name="images_array">
+        <item>https://slack-files.com/files-tmb/T043116HE-F060B6S94-e165eab1af/ic_launcher_360.png</item>
+
+    </array>
+
 </resources>

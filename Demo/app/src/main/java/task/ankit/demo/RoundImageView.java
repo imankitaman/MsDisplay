@@ -13,6 +13,8 @@ import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
+
+// this class is used for  making image round view in xml
 public class RoundImageView extends ImageView {
 
     public RoundImageView(Context context) {

@@ -8,7 +8,6 @@
     android:paddingBottom="5dp">
 
 
-
     <task.ankit.demo.RoundImageView
         android:id="@+id/imgid"
         android:layout_width="50dp"
