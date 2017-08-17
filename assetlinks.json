@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "in.redbus.android",
-    "sha256_cert_fingerprints":
-    ["5C:BE:06:91:FE:7D:07:2E:DA:BF:F8:E2:64:63:06:19:BB:6A:83:18:BB:5B:7D:F6:BC:76:16:55:D4:F5:19:63"]
-  }
-}]
