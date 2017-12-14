@@ -1,0 +1,4744 @@
+{
+  "RIN": [
+    {
+      "DN": "PRIVATE",
+      "IsGroup": false,
+      "InvList": [
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Kovan Hub",
+          "bt": "Executive",
+          "sn": "TBS-Kovan Hub",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "-1",
+            "Ct": "No Ratings"
+          },
+          "dt": "17/12/2017 10:30:00 AM",
+          "dm": 630,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250821,
+              "BpTime": 630,
+              "BPTimeStr": "10:30"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250826,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3946100,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30
+          ],
+          "minfr": 30,
+          "oid": 16313,
+          "rid": 171430,
+          "nsa": 30,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Express(LA Holidays)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Kovan Hub",
+              "bpId": 250821,
+              "dpId": 250826
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 20,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/16313.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Kovan Hub",
+          "bt": "Executive",
+          "sn": "TBS-Kovan Hub",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "-1",
+            "Ct": "No Ratings"
+          },
+          "dt": "17/12/2017 11:59:00 PM",
+          "dm": 1439,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250821,
+              "BpTime": 1439,
+              "BPTimeStr": "23:59"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250826,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3946121,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30
+          ],
+          "minfr": 30,
+          "oid": 16313,
+          "rid": 171433,
+          "nsa": 6,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Express(LA Holidays)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Kovan Hub",
+              "bpId": 250821,
+              "dpId": 250826
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 4,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16313.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "5 Elements Hotel, Chinatown, Jalan Sultan, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+          "dst": "Lavender MRT",
+          "bt": "Executive",
+          "sn": "Kuala Lumpur-Lavendar",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "-1",
+            "Ct": "No Ratings"
+          },
+          "dt": "17/12/2017 08:00:00 PM",
+          "dm": 1200,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250819,
+              "BpTime": 1200,
+              "BPTimeStr": "20:00"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250820,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3946116,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30
+          ],
+          "minfr": 30,
+          "oid": 16313,
+          "rid": 164749,
+          "nsa": 30,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Express(LA Holidays)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "5 Elements Hotel, Chinatown, Jalan Sultan, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+              "destinationDp": "Lavender MRT",
+              "bpId": 250819,
+              "dpId": 250820
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 20,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16313.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Lavender MRT",
+          "bt": "Executive",
+          "sn": "TBS-Lavendar",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "-1",
+            "Ct": "No Ratings"
+          },
+          "dt": "17/12/2017 11:59:00 PM",
+          "dm": 1439,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250821,
+              "BpTime": 1439,
+              "BPTimeStr": "23:59"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250820,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3946121,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30
+          ],
+          "minfr": 30,
+          "oid": 16313,
+          "rid": 164750,
+          "nsa": 6,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Express(LA Holidays)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Lavender MRT",
+              "bpId": 250821,
+              "dpId": 250820
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 4,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16313.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "5 Elements Hotel, Chinatown, Jalan Sultan, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+          "dst": "Lavender MRT",
+          "bt": "Executive",
+          "sn": "Kuala Lumpur-Lavendar",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "-1",
+            "Ct": "No Ratings"
+          },
+          "dt": "17/12/2017 11:59:00 PM",
+          "dm": 1439,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 251396,
+              "BpTime": 1439,
+              "BPTimeStr": "23:59"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250820,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3946121,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30
+          ],
+          "minfr": 30,
+          "oid": 16313,
+          "rid": 164752,
+          "nsa": 6,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Express(LA Holidays)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "5 Elements Hotel, Chinatown, Jalan Sultan, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+              "destinationDp": "Lavender MRT",
+              "bpId": 251396,
+              "dpId": 250820
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 4,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16313.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Katong v mall",
+          "bt": "Executive",
+          "sn": "TBS-Singapore",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "-1",
+            "Ct": "No Ratings"
+          },
+          "dt": "17/12/2017 11:59:00 PM",
+          "dm": 1439,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250821,
+              "BpTime": 1439,
+              "BPTimeStr": "23:59"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250822,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3946121,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30
+          ],
+          "minfr": 30,
+          "oid": 16313,
+          "rid": 164754,
+          "nsa": 6,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Express(LA Holidays)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Katong v mall",
+              "bpId": 250821,
+              "dpId": 250822
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 4,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16313.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "5 Elements Hotel, Chinatown, Jalan Sultan, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+          "dst": "Katong v mall",
+          "bt": "Executive",
+          "sn": "Kuala Lumpur-Singapore",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "-1",
+            "Ct": "No Ratings"
+          },
+          "dt": "17/12/2017 11:59:00 PM",
+          "dm": 1439,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 251396,
+              "BpTime": 1439,
+              "BPTimeStr": "23:59"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250822,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3946121,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30
+          ],
+          "minfr": 30,
+          "oid": 16313,
+          "rid": 164795,
+          "nsa": 6,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Express(LA Holidays)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "5 Elements Hotel, Chinatown, Jalan Sultan, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+              "destinationDp": "Katong v mall",
+              "bpId": 251396,
+              "dpId": 250822
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 4,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16313.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "5 Elements Hotel, Chinatown, Jalan Sultan, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+          "dst": "Katong v mall",
+          "bt": "Executive",
+          "sn": "Kuala Lumpur-Singapore",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "-1",
+            "Ct": "No Ratings"
+          },
+          "dt": "17/12/2017 08:00:00 PM",
+          "dm": 1200,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250819,
+              "BpTime": 1200,
+              "BPTimeStr": "20:00"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250822,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3946116,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30
+          ],
+          "minfr": 30,
+          "oid": 16313,
+          "rid": 165712,
+          "nsa": 30,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Express(LA Holidays)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "5 Elements Hotel, Chinatown, Jalan Sultan, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+              "destinationDp": "Katong v mall",
+              "bpId": 250819,
+              "dpId": 250822
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 20,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16313.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Woodlands Checkpoint",
+          "bt": "Executive",
+          "sn": "TBS-Woodland CheckPoint",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "2.4",
+            "Ct": "5"
+          },
+          "dt": "17/12/2017 10:30:00 AM",
+          "dm": 630,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250530,
+              "BpTime": 630,
+              "BPTimeStr": "10:30"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250536,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3908780,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            25
+          ],
+          "minfr": 25,
+          "oid": 16238,
+          "rid": 133020,
+          "nsa": 21,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Season express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Woodlands Checkpoint",
+              "bpId": 250530,
+              "dpId": 250536
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 14,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/16238.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Golden Mile Complex",
+          "bt": "Executive",
+          "sn": "TBS-Golden Mile",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "2.4",
+            "Ct": "5"
+          },
+          "dt": "17/12/2017 10:30:00 AM",
+          "dm": 630,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250530,
+              "BpTime": 630,
+              "BPTimeStr": "10:30"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250526,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3908780,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            25
+          ],
+          "minfr": 25,
+          "oid": 16238,
+          "rid": 133021,
+          "nsa": 21,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Season express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Golden Mile Complex",
+              "bpId": 250530,
+              "dpId": 250526
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 14,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/16238.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Woodlands Checkpoint",
+          "bt": "Executive",
+          "sn": "TBS-Woodland CheckPoint",
+          "cp": "",
+          "rt": {
+            "totRt": 2.4,
+            "Rt": {
+              "Ct": "5"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 07:45:00 PM",
+          "dm": 1185,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250530,
+              "BpTime": 1185,
+              "BPTimeStr": "19:45"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250536,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 3908792,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            25
+          ],
+          "minfr": 25,
+          "oid": 16238,
+          "rid": 133027,
+          "nsa": 27,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Season express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Woodlands Checkpoint",
+              "bpId": 250530,
+              "dpId": 250536
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 18,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16238.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 2.8,
+            "Rt": {
+              "Ct": "5"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 11:31:00 PM",
+          "dm": 1411,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 1411,
+              "BPTimeStr": "23:31"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 116378,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.2",
+            "Ct": "24"
+          },
+          "dt": "17/12/2017 01:45:00 PM",
+          "dm": 825,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 825,
+              "BPTimeStr": "13:45"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 102594,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 4.3,
+            "Rt": {
+              "Ct": "56"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 07:00:00 AM",
+          "dm": 420,
+          "at": "17/12/2017 12:01:00 PM",
+          "am": 721,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 420,
+              "BPTimeStr": "07:00"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 721,
+              "BPTimeStr": "12:01"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            31.83
+          ],
+          "minfr": 31.83,
+          "oid": 16188,
+          "rid": 97579,
+          "nsa": 10,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 7,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 3.9,
+            "Rt": {
+              "Ct": "46"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 08:30:00 AM",
+          "dm": 510,
+          "at": "17/12/2017 01:31:00 PM",
+          "am": 811,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 510,
+              "BPTimeStr": "08:30"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 811,
+              "BPTimeStr": "13:31"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            31.83
+          ],
+          "minfr": 31.83,
+          "oid": 16188,
+          "rid": 97581,
+          "nsa": 6,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 4,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 3.6,
+            "Rt": {
+              "Ct": "20"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 09:30:00 AM",
+          "dm": 570,
+          "at": "17/12/2017 02:31:00 PM",
+          "am": 871,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 570,
+              "BPTimeStr": "09:30"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 871,
+              "BPTimeStr": "14:31"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            14.46
+          ],
+          "minfr": 14.46,
+          "oid": 16188,
+          "rid": 97583,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 3.7,
+            "Rt": {
+              "Ct": "135"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 11:59:00 PM",
+          "dm": 1439,
+          "at": "18/12/2017 05:00:00 AM",
+          "am": 300,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 1439,
+              "BPTimeStr": "23:59"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 300,
+              "BPTimeStr": "05:00"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            14.46
+          ],
+          "minfr": 14.46,
+          "oid": 16188,
+          "rid": 97597,
+          "nsa": 13,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 7,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 3.1,
+            "Rt": {
+              "Ct": "10"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 09:00:00 AM",
+          "dm": 540,
+          "at": "17/12/2017 02:01:00 PM",
+          "am": 841,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 540,
+              "BPTimeStr": "09:00"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 841,
+              "BPTimeStr": "14:01"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98643,
+          "nsa": 7,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 7,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 1.6,
+            "Rt": {
+              "Ct": "6"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 12:00:00 PM",
+          "dm": 720,
+          "at": "17/12/2017 05:01:00 PM",
+          "am": 1021,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 720,
+              "BPTimeStr": "12:00"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 1021,
+              "BPTimeStr": "17:01"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98644,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 3.3,
+            "Rt": {
+              "Ct": "20"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 02:31:00 PM",
+          "dm": 871,
+          "at": "17/12/2017 07:32:00 PM",
+          "am": 1172,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 871,
+              "BPTimeStr": "14:31"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 1172,
+              "BPTimeStr": "19:32"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98648,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 2.4,
+            "Rt": {
+              "Ct": "10"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 03:33:00 PM",
+          "dm": 933,
+          "at": "17/12/2017 08:34:00 PM",
+          "am": 1234,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 933,
+              "BPTimeStr": "15:33"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 1234,
+              "BPTimeStr": "20:34"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98655,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 2.7,
+            "Rt": {
+              "Ct": "14"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 04:15:00 PM",
+          "dm": 975,
+          "at": "17/12/2017 09:16:00 PM",
+          "am": 1276,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 975,
+              "BPTimeStr": "16:15"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 1276,
+              "BPTimeStr": "21:16"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98657,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 2.7,
+            "Rt": {
+              "Ct": "13"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 04:31:00 PM",
+          "dm": 991,
+          "at": "17/12/2017 09:32:00 PM",
+          "am": 1292,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 991,
+              "BPTimeStr": "16:31"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 1292,
+              "BPTimeStr": "21:32"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98658,
+          "nsa": 2,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 2,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 2.4,
+            "Rt": {
+              "Ct": "5"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 04:32:00 PM",
+          "dm": 992,
+          "at": "17/12/2017 09:33:00 PM",
+          "am": 1293,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 992,
+              "BPTimeStr": "16:32"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 1293,
+              "BPTimeStr": "21:33"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98659,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 0,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 2.4,
+            "Rt": {
+              "Ct": "9"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 04:33:00 PM",
+          "dm": 993,
+          "at": "17/12/2017 09:34:00 PM",
+          "am": 1294,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 993,
+              "BPTimeStr": "16:33"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 1294,
+              "BPTimeStr": "21:34"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98660,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 3.4,
+            "Rt": {
+              "Ct": "15"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 11:55:00 PM",
+          "dm": 1435,
+          "at": "18/12/2017 04:56:00 AM",
+          "am": 296,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 1435,
+              "BPTimeStr": "23:55"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 296,
+              "BPTimeStr": "04:56"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98669,
+          "nsa": 27,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 18,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 3.4,
+            "Rt": {
+              "Ct": "14"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 11:56:00 PM",
+          "dm": 1436,
+          "at": "18/12/2017 04:57:00 AM",
+          "am": 297,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 1436,
+              "BPTimeStr": "23:56"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 297,
+              "BPTimeStr": "04:57"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98670,
+          "nsa": 27,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 18,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "",
+          "cp": "",
+          "rt": {
+            "totRt": 2.1,
+            "Rt": {
+              "Ct": "18"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 11:58:00 PM",
+          "dm": 1438,
+          "at": "18/12/2017 04:59:00 AM",
+          "am": 299,
+          "dur": 301,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249829,
+              "BpTime": 1438,
+              "BPTimeStr": "23:58"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249809,
+              "BpTime": 299,
+              "BPTimeStr": "04:59"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            16.07
+          ],
+          "minfr": 16.07,
+          "oid": 16188,
+          "rid": 98672,
+          "nsa": 14,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Starmart Express",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 249829,
+              "dpId": 249809
+            },
+            "busImageCount": 10,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 9,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/16188.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Hotel Lobby (Tel: +65 6392 3911)",
+          "dst": "Boon lay",
+          "bt": "SVIP",
+          "sn": "(113A) 3.15PM KL Sunway htl-SIN (S.31)",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.6",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 03:15:00 PM",
+          "dm": 915,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 147333,
+              "BpTime": 915,
+              "BPTimeStr": "15:15"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8873,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            39
+          ],
+          "minfr": 39,
+          "oid": 15036,
+          "rid": 99179,
+          "nsa": 10,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Konsortium (Singapore)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Hotel Lobby (Tel: +65 6392 3911)",
+              "destinationDp": "Boon lay",
+              "bpId": 147333,
+              "dpId": 8873
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 6,
+          "WnSt": 7,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15036.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Sunway clio hotel",
+          "dst": "Boon lay",
+          "bt": "SVIP",
+          "sn": "(113A) 3.15PM KL Sunway htl-SIN (S.31)",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.6",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 03:15:00 PM",
+          "dm": 915,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 9443,
+              "BpTime": 915,
+              "BPTimeStr": "15:15"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8873,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            39
+          ],
+          "minfr": 39,
+          "oid": 15036,
+          "rid": 99180,
+          "nsa": 10,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Konsortium (Singapore)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Sunway clio hotel",
+              "destinationDp": "Boon lay",
+              "bpId": 9443,
+              "dpId": 8873
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 6,
+          "WnSt": 7,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15036.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Sunway clio hotel",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "(113A) 3.15PM KL Sunway htl-SIN (S.31)",
+          "cp": "",
+          "rt": {
+            "totRt": 3.6,
+            "Rt": {
+              "Ct": "4"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 03:15:00 PM",
+          "dm": 915,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 9443,
+              "BpTime": 915,
+              "BPTimeStr": "15:15"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 59,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            39
+          ],
+          "minfr": 39,
+          "oid": 15036,
+          "rid": 85676,
+          "nsa": 10,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Konsortium (Singapore)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Sunway clio hotel",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 9443,
+              "dpId": 59
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 6,
+          "WnSt": 7,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15036.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Royale Bintang Hotel",
+          "dst": "Boon lay",
+          "bt": "SVIP",
+          "sn": "(113)2.45pm KL Federal-3.15pm Sunway htl-Sin(SVIP)",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.6",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 02:45:00 PM",
+          "dm": 885,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 578,
+              "BpTime": 885,
+              "BPTimeStr": "14:45"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8873,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            34
+          ],
+          "minfr": 34,
+          "oid": 15036,
+          "rid": 85677,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Konsortium (Singapore)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Royale Bintang Hotel",
+              "destinationDp": "Boon lay",
+              "bpId": 578,
+              "dpId": 8873
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 6,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15036.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Royale Bintang Hotel",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "(113)2.45pm KL Federal-3.15pm Sunway htl-Sin(SVIP)",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.6",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 02:45:00 PM",
+          "dm": 885,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 578,
+              "BpTime": 885,
+              "BPTimeStr": "14:45"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 59,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            34
+          ],
+          "minfr": 34,
+          "oid": 15036,
+          "rid": 85678,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Konsortium (Singapore)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Royale Bintang Hotel",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 578,
+              "dpId": 59
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 6,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15036.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Federal Hotel",
+          "dst": "Boon lay",
+          "bt": "SVIP",
+          "sn": "(113)2.45pm KL Federal-3.15pm Sunway htl-Sin(SVIP)",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.6",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 02:45:00 PM",
+          "dm": 885,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 581,
+              "BpTime": 885,
+              "BPTimeStr": "14:45"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8873,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            34
+          ],
+          "minfr": 34,
+          "oid": 15036,
+          "rid": 85679,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Konsortium (Singapore)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Federal Hotel",
+              "destinationDp": "Boon lay",
+              "bpId": 581,
+              "dpId": 8873
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 6,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15036.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Federal Hotel",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "(113)2.45pm KL Federal-3.15pm Sunway htl-Sin(SVIP)",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.6",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 02:45:00 PM",
+          "dm": 885,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 581,
+              "BpTime": 885,
+              "BPTimeStr": "14:45"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 59,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            34
+          ],
+          "minfr": 34,
+          "oid": 15036,
+          "rid": 85680,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Konsortium (Singapore)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Federal Hotel",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 581,
+              "dpId": 59
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 6,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15036.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Terminal KTM (Old Railway Station)",
+          "dst": "The Plaza Beach Road",
+          "bt": "Executive Coach",
+          "sn": "KUL-SIN",
+          "cp": "",
+          "rt": {
+            "totRt": 4.3,
+            "Rt": {
+              "Ct": "25"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 10:30:00 AM",
+          "dm": 630,
+          "at": "17/12/2017 04:30:00 PM",
+          "am": 990,
+          "dur": 360,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 1809,
+              "BpTime": 630,
+              "BPTimeStr": "10:30"
+            },
+            {
+              "BpId": 1810,
+              "BpTime": 640,
+              "BPTimeStr": "10:40"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 1813,
+              "BpTime": 990,
+              "BPTimeStr": "16:30"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "UTC+08:00",
+          "dtz": "UTC+08:00",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            17.61
+          ],
+          "minfr": 17.61,
+          "oid": 15098,
+          "rid": 74786,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Nice",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Terminal KTM (Old Railway Station)",
+              "destinationDp": "The Plaza Beach Road",
+              "bpId": 1809,
+              "dpId": 1813
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": "Kuala lumpur-Singapore"
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/15098.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 623,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Terminal KTM (Old Railway Station)",
+          "dst": "The Plaza Beach Road",
+          "bt": "Imperial",
+          "sn": "KUL-SIN",
+          "cp": "",
+          "rt": {
+            "totRt": 3.9,
+            "Rt": {
+              "Ct": "15"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 09:00:00 AM",
+          "dm": 540,
+          "at": "17/12/2017 03:00:00 PM",
+          "am": 900,
+          "dur": 360,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 1809,
+              "BpTime": 540,
+              "BPTimeStr": "09:00"
+            },
+            {
+              "BpId": 1810,
+              "BpTime": 550,
+              "BPTimeStr": "09:10"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 1813,
+              "BpTime": 900,
+              "BPTimeStr": "15:00"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "UTC+08:00",
+          "dtz": "UTC+08:00",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            20.83
+          ],
+          "minfr": 20.83,
+          "oid": 15098,
+          "rid": 74808,
+          "nsa": 2,
+          "nusa": 0,
+          "ismt": false,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Nice",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Terminal KTM (Old Railway Station)",
+              "destinationDp": "The Plaza Beach Road",
+              "bpId": 1809,
+              "dpId": 1813
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": "Kuala lumpur-Singapore"
+          },
+          "spt": 10,
+          "WnSt": 2,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Morning",
+          "lp": "sgp/logo/15098.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 624,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Textile Centre",
+          "bt": "VIP",
+          "sn": "KLS22",
+          "cp": "",
+          "rt": {
+            "totRt": 3,
+            "Rt": {
+              "Ct": "4"
+            }
+          },
+          "oprt": null,
+          "dt": "17/12/2017 10:00:00 PM",
+          "dm": 1320,
+          "at": "18/12/2017 02:00:00 AM",
+          "am": 120,
+          "dur": 240,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 8985,
+              "BpTime": 1320,
+              "BPTimeStr": "22:00"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8981,
+              "BpTime": 120,
+              "BPTimeStr": "02:00"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [
+            7
+          ],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30.86
+          ],
+          "minfr": 30.86,
+          "oid": 15243,
+          "rid": 27578,
+          "nsa": 11,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Eltabina Jaya",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Textile Centre",
+              "bpId": 8985,
+              "dpId": 8981
+            },
+            "busImageCount": 0,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 6,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/15243.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 603,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Bukit bintang (ansa hotel)",
+          "dst": "Textile Centre",
+          "bt": "VIP",
+          "sn": "BB-TBS-SIN_3PM",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 03:00:00 PM",
+          "dm": 900,
+          "at": "17/12/2017 08:30:00 PM",
+          "am": 1230,
+          "dur": 330,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 8983,
+              "BpTime": 900,
+              "BPTimeStr": "15:00"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8981,
+              "BpTime": 1230,
+              "BPTimeStr": "20:30"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            31.51
+          ],
+          "minfr": 31.51,
+          "oid": 15243,
+          "rid": 27594,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Eltabina Jaya",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Bukit bintang (ansa hotel)",
+              "destinationDp": "Textile Centre",
+              "bpId": 8983,
+              "dpId": 8981
+            },
+            "busImageCount": 0,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 0,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15243.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 603,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Textile Centre",
+          "bt": "VIP",
+          "sn": "KS1730",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 05:30:00 PM",
+          "dm": 1050,
+          "at": "17/12/2017 09:30:00 PM",
+          "am": 1290,
+          "dur": 240,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 8985,
+              "BpTime": 1050,
+              "BPTimeStr": "17:30"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8981,
+              "BpTime": 1290,
+              "BPTimeStr": "21:30"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30.86
+          ],
+          "minfr": 30.86,
+          "oid": 15243,
+          "rid": 27595,
+          "nsa": 1,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Eltabina Jaya",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Textile Centre",
+              "bpId": 8985,
+              "dpId": 8981
+            },
+            "busImageCount": 0,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 1,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15243.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 603,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Textile Centre",
+          "bt": "VIP",
+          "sn": "KLS2330",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 11:30:00 PM",
+          "dm": 1410,
+          "at": "18/12/2017 03:30:00 AM",
+          "am": 210,
+          "dur": 240,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 8985,
+              "BpTime": 1410,
+              "BPTimeStr": "23:30"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8981,
+              "BpTime": 210,
+              "BPTimeStr": "03:30"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            30.86
+          ],
+          "minfr": 30.86,
+          "oid": 15243,
+          "rid": 27596,
+          "nsa": 15,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Eltabina Jaya",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Textile Centre",
+              "bpId": 8985,
+              "dpId": 8981
+            },
+            "busImageCount": 4,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 10,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "Evening",
+          "lp": "sgp/logo/15243.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 603,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Hotel Lobby (Tel: +65 6392 3911)",
+          "dst": "Golden Mile Tower",
+          "bt": "SVIP",
+          "sn": "(113A) 3.15PM KL Sunway htl-SIN (S.31)",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.6",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 03:15:00 PM",
+          "dm": 915,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 147333,
+              "BpTime": 915,
+              "BPTimeStr": "15:15"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 59,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            39
+          ],
+          "minfr": 39,
+          "oid": 15036,
+          "rid": 92968,
+          "nsa": 10,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Konsortium (Singapore)",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Hotel Lobby (Tel: +65 6392 3911)",
+              "destinationDp": "Golden Mile Tower",
+              "bpId": 147333,
+              "dpId": 59
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 6,
+          "WnSt": 7,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15036.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Boon lay",
+          "bt": "SVIP",
+          "sn": "1230pm_Berjaya to BL - GMC [SVIP]",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3.1",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 12:30:00 PM",
+          "dm": 750,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 249745,
+              "BpTime": 750,
+              "BPTimeStr": "12:30"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 249742,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": false,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            41.5
+          ],
+          "minfr": 41.5,
+          "oid": 16177,
+          "rid": 95598,
+          "nsa": 9,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "The One Travel & Tours",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Boon lay",
+              "bpId": 249745,
+              "dpId": 249742
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 0,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16177.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 600,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Tbs (terminal bersepadu selatan)",
+          "dst": "Textile Centre",
+          "bt": "VIP",
+          "sn": "BTS_17.12.17@12.20PM",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "3",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 12:45:00 PM",
+          "dm": 765,
+          "at": "17/12/2017 05:45:00 PM",
+          "am": 1065,
+          "dur": 300,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 8985,
+              "BpTime": 765,
+              "BPTimeStr": "12:45"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 8981,
+              "BpTime": 1065,
+              "BPTimeStr": "17:45"
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 0,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            31.51
+          ],
+          "minfr": 31.51,
+          "oid": 15243,
+          "rid": 187596,
+          "nsa": 9,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "Eltabina Jaya",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Tbs (terminal bersepadu selatan)",
+              "destinationDp": "Textile Centre",
+              "bpId": 8985,
+              "dpId": 8981
+            },
+            "busImageCount": 0,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 6,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/15243.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 603,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Lavender MRT",
+          "bt": "Executive",
+          "sn": "Berjaya Times Square-Lavendar",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "4.2",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 02:01:00 PM",
+          "dm": 841,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250067,
+              "BpTime": 841,
+              "BPTimeStr": "14:01"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250088,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 4023456,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            35
+          ],
+          "minfr": 35,
+          "oid": 16226,
+          "rid": 187791,
+          "nsa": 11,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Travel & Tours Pte Ltd",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Lavender MRT",
+              "bpId": 250067,
+              "dpId": 250088
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 5,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16226.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        },
+        {
+          "Bc": {
+            "IsAc": true,
+            "IsNonAc": false,
+            "IsSeater": true,
+            "IsSleeper": false
+          },
+          "sid": 192913,
+          "did": 192939,
+          "src": "Berjaya times square",
+          "dst": "Katong v mall",
+          "bt": "Executive",
+          "sn": "Berjaya Times Square-Singapore",
+          "cp": "",
+          "rt": {
+            "totRt": -1,
+            "Rt": {
+              "Ct": ""
+            }
+          },
+          "oprt": {
+            "totRt": "4.2",
+            "Ct": "4"
+          },
+          "dt": "17/12/2017 02:01:00 PM",
+          "dm": 841,
+          "at": null,
+          "am": 0,
+          "dur": 0,
+          "BPLst": null,
+          "DPLst": null,
+          "BPLt": [
+            {
+              "BpId": 250067,
+              "BpTime": 841,
+              "BPTimeStr": "14:01"
+            }
+          ],
+          "DPLt": [
+            {
+              "BpId": 250047,
+              "BpTime": 0,
+              "BPTimeStr": ""
+            }
+          ],
+          "Issa": true,
+          "Iscs": false,
+          "Islt": false,
+          "Isob": false,
+          "amnt": [],
+          "tz": "UTC+08:00",
+          "atz": "",
+          "dtz": "",
+          "isbd": false,
+          "si": 4023456,
+          "BSI": 0,
+          "vt": "bus",
+          "FrLst": [
+            35
+          ],
+          "minfr": 35,
+          "oid": 16226,
+          "rid": 187792,
+          "nsa": 11,
+          "nusa": 0,
+          "ismt": true,
+          "IsSO": false,
+          "IsSpF": false,
+          "Tvs": "KKKL Travel & Tours Pte Ltd",
+          "sort": "1",
+          "p42": {
+            "rgb": 0,
+            "restStopList": [],
+            "boReqParm": [
+              {
+                "isBpDpSl": false,
+                "isBpDpTb": false
+              }
+            ],
+            "LocationSearchParams": {
+              "isExactMatch": true,
+              "sourceBp": "Berjaya times square",
+              "destinationDp": "Katong v mall",
+              "bpId": 250067,
+              "dpId": 250047
+            },
+            "busImageCount": -1,
+            "zcf": null,
+            "sponsor": null,
+            "viaRoutes": ""
+          },
+          "spt": 10,
+          "WnSt": 5,
+          "bs": "-1",
+          "cur": "SGD",
+          "Cmpg": null,
+          "TimeOfDay": "AfterNoon",
+          "lp": "sgp/logo/16226.png",
+          "IGId": 0,
+          "IsPC": false,
+          "busTypeId": 601,
+          "isRsc": false,
+          "rc": ""
+        }
+      ]
+    }
+  ],
+  "blu": "http://origin-st.redbus.in/buslogos/country/"
+}
