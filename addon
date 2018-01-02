@@ -13,7 +13,7 @@
             "cancellation_rule": "Refundable As Per Rateplan Cancellation Policy",
             "isUserControlled": false,
             "id": 2737
-        }
+        },
          {
             "pricePerUnit": 1,
             "totalCharges": 1,
