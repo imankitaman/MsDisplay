@@ -25,7 +25,7 @@
             "type": "ankit_cin",
             "text": "Ankit Checkin",
             "cancellationRule": "Refundable As Per Rateplan Cancellation Policy",
-            "isUserControlled": false,
+            "isUserControlled": true,
             "id": 2727
         }
     ]
