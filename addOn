@@ -1,0 +1,32 @@
+{
+    "IbibioApiTime": 6712,
+    "RedBusApiTime": 6712,
+    "Message": "Early checkin available",
+    "Success": true,
+    "data": [
+        {
+            "pricePerUnitWithTax": 1,
+            "totalChargesWithTax": 1,
+            "start_time": "06:00:00",
+            "tax": 0,
+            "headerText": "6AM checkin",
+            "type": "early_cin",
+            "text": "Early Checkin",
+            "cancellationRule": "Refundable As Per Rateplan Cancellation Policy",
+            "isUserControlled": false,
+            "id": 2737
+        },
+           {
+            "pricePerUnitWithTax": 1,
+            "totalChargesWithTax": 1,
+            "tax": 0,
+            "headerText": "12AM checkin",
+            "start_time": "06:00:00",
+            "type": "ankit_cin",
+            "text": "Ankit Checkin",
+            "cancellationRule": "Refundable As Per Rateplan Cancellation Policy",
+            "isUserControlled": true,
+            "id": 2727
+        }
+    ]
+}
