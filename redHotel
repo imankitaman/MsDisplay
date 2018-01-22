@@ -1,0 +1,146 @@
+{
+  "123456789": {
+    "landMarkText": "550m, away from X place",
+    "hotelCode": 123456789,
+    "hotelName": "Hotel VT Orchid",
+    "email": "",
+    "phone": "",
+    "address": "#28, 4thCross, 2nd Main Road, Gandhi Nagar, Bangalore - 560 009",
+    "location": "",
+    "locationId": 123,
+    "city": "",
+    "starRating": "",
+    "latitude": "",
+    "longitude": "",
+    "hotelType": "",
+    "awards": [
+      "",
+      "",
+      ""
+    ],
+    "checkInTime": "11am",
+    "checkOutTime": "12pm",
+    "staff_language": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "restaurants": {
+      "count": 2,
+      "details": [
+        {
+          "name": "Nadhana Pure Veg Restaurant",
+          "description": "this Restaurant servers ",
+          "ispureveg": true,
+          "timing": ""
+        },
+        {
+          "name": "",
+          "description": "",
+          "ispureveg": false,
+          "timing": ""
+        }
+      ]
+    },
+    "breakfast": {
+      "type": "Set Menu",
+      "menu": "1 South Indian Dish, Tea / Coffee, 2 Bread Slices, Butter and Jam Sachets"
+    },
+    "whoPrefersIt": [
+      "test",
+      "test",
+      "test"
+    ],
+    "whyThisHotel": [
+      "test",
+      "test",
+      "test"
+    ], 
+ "valueAddedServices": [
+      "test",
+      "test",
+      "test"
+    ],
+	
+	
+    "utilitiesNearby": [
+      {
+        "text": "ICICI ATM",
+        "magnitude": 1,
+        "unit": "KM"
+      },
+      {
+        "text": "ICICI ATM",
+        "magnitude": 15,
+        "unit": "min"
+      },
+      {
+        "text": "ICICI ATM",
+        "magnitude": 1,
+        "unit": "KM"
+      }
+    ],
+    "pointOfInterests": [
+      {
+        "heading": "Stores",
+        "data": [
+          {
+            "subheading": "ICICI ATM",
+            "magnitude": 1,
+            "unit": "KM",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "text": "ICICI ATM",
+            "magnitude": 15,
+            "unit": "min",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "text": "ICICI ATM",
+            "magnitude": 1,
+            "unit": "KM",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "heading": "Stores",
+        "data": [
+          {
+            "subheading": "ICICI ATM",
+            "magnitude": 1,
+            "unit": "KM",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "subheading": "ICICI ATM",
+            "magnitude": 15,
+            "unit": "min",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "subheading": "ICICI ATM",
+            "magnitude": 1,
+            "unit": "KM",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      }
+    ],
+    "facilities": [
+      "WIFI",
+      ""
+    ],
+    "valueAddedServices": [
+      "Free WIFI",
+      ""
+    ]
+  }
+}
