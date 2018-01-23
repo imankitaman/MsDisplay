@@ -1,0 +1,1774 @@
+{
+  "IbibioApiTime": 161,
+  "RedBusApiTime": 163,
+  "Message": null,
+  "Success": true,
+  "status": 200,
+  "Data": {
+    "cha": "",
+    "gor": 4.1,
+    "prc": 890,
+    "att": [],
+    "chc": "",
+    "pin": "560002",
+    "fac": [
+      "Front Desk",
+      "24 Hour Check in-Icon",
+      "Newspapers In Lobby",
+      "Lift / Elevator",
+      "Doctor on Call",
+      "Wifi",
+      "CCTV",
+      "FREE PARKING FACILITIES",
+      "Electrical Adapters Available",
+      "wi fi",
+      "Charging points",
+      "Room Service (24 Hours)",
+      "Public Restrooms",
+      "Free Internet Access ",
+      "Laundry Service Available",
+      "Power Backup"
+    ],
+    "tid": "",
+    "rmc": 15,
+    "vid": "6771549831164675055",
+    "ctn": "India",
+    "lid": "3699017265393610834",
+    "app": [],
+    "lat": 12.971763,
+    "log": 77.581036,
+    "nbh": [
+      [
+        "Sree Kanteerava Stadium",
+        20,
+        "2660936222523993609"
+      ],
+      [
+        "Cubbon Park",
+        20,
+        "1192188418752812692"
+      ],
+      [
+        "Lalbagh Metro Station",
+        120,
+        "8255529966897397399"
+      ],
+      [
+        "Government S.K.S.J. Technology Institute",
+        120,
+        "8233340830211382936"
+      ],
+      [
+        "Karnataka State Dental Council",
+        120,
+        "5992419711349514906"
+      ],
+      [
+        "City Civil Court Complex",
+        120,
+        "8925341086974552347"
+      ],
+      [
+        "BMTC Public Relation Office",
+        120,
+        "3098241653067938970"
+      ],
+      [
+        "Tipu Sultans Palace",
+        20,
+        "7083359245310441894"
+      ],
+      [
+        "Lalbagh Botanical Garden",
+        20,
+        "7465676337536909609"
+      ],
+      [
+        "KR Market Bus Stand",
+        120,
+        "4501302765076048684"
+      ],
+      [
+        "Shri Dharmaraya Swamy Temple",
+        120,
+        "5877164576841324977"
+      ],
+      [
+        "Sri Krishnarajendra Silver Jubilee Technological Institute",
+        120,
+        "6947461777958230579"
+      ],
+      [
+        "Chief Metropolitan Magistrate Court",
+        120,
+        "1438884008302855991"
+      ],
+      [
+        "Ramakrishna Math",
+        120,
+        "2439549327453032762"
+      ],
+      [
+        "Kalasipalya Bus Depot",
+        120,
+        "2254167847247493307"
+      ],
+      [
+        "Chief Postmaster General Karnataka Circle",
+        120,
+        "3880231222825837375"
+      ],
+      [
+        "PWD Office",
+        120,
+        "5310048062853321271"
+      ],
+      [
+        "Gandhi Nagar/ Majestic / City Railway Station",
+        122,
+        "3699017265393610834"
+      ],
+      [
+        "Income Tax Department",
+        120,
+        "8465196616125897311"
+      ],
+      [
+        "Passport Seva Kendra",
+        120,
+        "803581368523625403"
+      ],
+      [
+        "Magistrate Court",
+        120,
+        "559995745320672368"
+      ],
+      [
+        "Director of Horticulture Office",
+        120,
+        "2210011313362050933"
+      ],
+      [
+        "Majestic Bus Terminus",
+        120,
+        "2937172727524151798"
+      ],
+      [
+        "Deputy Commissioner for Transport and Senior RTO",
+        120,
+        "1949555960290064504"
+      ]
+    ],
+    "fcl": [
+      8,
+      8,
+      7,
+      1,
+      11
+    ],
+    "gal": [
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-room-79972941879-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-room-79972941879-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-room-79972941879-jpeg-fs.jpg",
+        "Room Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-2241284-hotel-manasa-paradise-hotel-exterior-1-rtsjpg-68056903386th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-2241284-hotel-manasa-paradise-hotel-exterior-1-rtsjpg-68056903386g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-2241284-hotel-manasa-paradise-hotel-exterior-1-rtsjpg-68056903386fs.jpg",
+        "Facade",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2202-76699907354th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2202-76699907354g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2202-76699907354fs.jpg",
+        "Room Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-112631578479-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-112631578479-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-112631578479-jpeg-fs.jpg",
+        "Sitting Area",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044373813jpg-112631594606-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044373813jpg-112631594606-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044373813jpg-112631594606-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-dsc_-112631611254-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-dsc_-112631611254-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-dsc_-112631611254-jpeg-g.jpg",
+        "Exterior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044352405jpg-112631624409-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044352405jpg-112631624409-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044352405jpg-112631624409-jpeg-fs.jpg",
+        "Sitting Area",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044392223jpg-112631640977-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044392223jpg-112631640977-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044392223jpg-112631640977-jpeg-fs.jpg",
+        "Entrance",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044362928jpg-112631659105-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044362928jpg-112631659105-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044362928jpg-112631659105-jpeg-fs.jpg",
+        "Reception",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-stairs-112631676901-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-stairs-112631676901-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-stairs-112631676901-jpeg-fs.jpg",
+        "Stairs",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-112631692599-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-112631692599-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-112631692599-jpeg-fs.jpg",
+        "Sitting Area",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-reception-112631709602-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-reception-112631709602-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-reception-112631709602-jpeg-fs.jpg",
+        "Reception",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699891356th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699891356g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699891356fs.jpg",
+        "Washroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699783898th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699783898g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699783898fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76692631961th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76692631961g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76692631961fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699842058th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699842058g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699842058fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699848099th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699848099g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699848099fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699932795th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699932795g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699932795fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699976875th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699976875g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699976875fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699835948th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699835948g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699835948fs.jpg",
+        "Bathroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-76699854237th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-76699854237g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-76699854237fs.jpg",
+        "Washroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699913202th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699913202g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699913202fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2256-76699955443th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2256-76699955443g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2256-76699955443fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76699983070th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76699983070g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76699983070fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699803617th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699803617g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699803617fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699810865th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699810865g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699810865fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-76699882062th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-76699882062g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-76699882062fs.jpg",
+        "Room Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699923560th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699923560g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699923560fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699943102th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699943102g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699943102fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044168886jpg-112631727640-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044168886jpg-112631727640-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044168886jpg-112631727640-jpeg-fs.jpg",
+        "Bathroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044152541jpg-112631744536-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044152541jpg-112631744536-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044152541jpg-112631744536-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044175433jpg-112631761168-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044175433jpg-112631761168-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044175433jpg-112631761168-jpeg-fs.jpg",
+        "washroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044162472jpg-112631779213-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044162472jpg-112631779213-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044162472jpg-112631779213-jpeg-fs.jpg",
+        "Room Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-room-126915490030-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-room-126915490030-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-room-126915490030-jpeg-fs.jpg",
+        "hotel-manasa-paradise-bangalore-room",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2249-87253021729-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2249-87253021729-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2249-87253021729-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2251-87253066944-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2251-87253066944-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2251-87253066944-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-77299264161th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-77299264161g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-77299264161fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299283704th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299283704g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299283704fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2254-87277702890-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2254-87277702890-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2254-87277702890-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87277742304-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87277742304-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87277742304-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87277647997-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87277647997-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87277647997-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2257-87253248084-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2257-87253248084-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2257-87253248084-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-77299197214th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-77299197214g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-77299197214fs.jpg",
+        "Bathroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-77299207184th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-77299207184g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-77299207184fs.jpg",
+        "Washroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2252-87253153629-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2252-87253153629-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2252-87253153629-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299273683th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299273683g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299273683fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299327538th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299327538g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299327538fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-77299367860th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-77299367860g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-77299367860fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299190813th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299190813g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299190813fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87253103699-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87253103699-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87253103699-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87253199422-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87253199422-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87253199422-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-77299352298th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-77299352298g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-77299352298fs.jpg",
+        "IMG_2257",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631795749-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631795749-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631795749-jpeg-fs.jpg",
+        "hotel-manasa-paradise-bangalore-img_",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631811841-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631811841-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631811841-jpeg-fs.jpg",
+        "hotel-manasa-paradise-bangalore-img_",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044110808jpg-112872203409-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044110808jpg-112872203409-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044110808jpg-112872203409-jpeg-fs.jpg",
+        "1465044110808.jpg",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044116685jpg-112872219710-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044116685jpg-112872219710-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044116685jpg-112872219710-jpeg-fs.jpg",
+        "1465044116685.jpg",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872237229-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872237229-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872237229-jpeg-fs.jpg",
+        "hotel-manasa-paradise-bangalore-img_",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922358209jpg-112872254036-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922358209jpg-112872254036-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922358209jpg-112872254036-jpeg-fs.jpg",
+        "1482922358209.JPG",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044122463jpg-112872271372-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044122463jpg-112872271372-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044122463jpg-112872271372-jpeg-fs.jpg",
+        "1465044122463.jpg",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2220-77299213447th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2220-77299213447g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2220-77299213447fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2219-77299254962th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2219-77299254962g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2219-77299254962fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2218-77299300604th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2218-77299300604g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2218-77299300604fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2217-77299358167th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2217-77299358167g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2217-77299358167fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2223-77299374709th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2223-77299374709g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2223-77299374709fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2224-77299181072th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2224-77299181072g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2224-77299181072fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2227-77299334497th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2227-77299334497g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2227-77299334497fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2228-77299344064th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2228-77299344064g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2228-77299344064fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2230-77299222958th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2230-77299222958g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2230-77299222958fs.jpg",
+        "Bathroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2231-77299232637th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2231-77299232637g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2231-77299232637fs.jpg",
+        "Washroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2229-77299291125th.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2229-77299291125g.jpg",
+        "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2229-77299291125fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872345580-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872345580-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872345580-jpeg-fs.jpg",
+        "hotel-manasa-paradise-bangalore-img_",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044314604jpg-112872367349-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044314604jpg-112872367349-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044314604jpg-112872367349-jpeg-fs.jpg",
+        "Bathroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044295545jpg-112872393998-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044295545jpg-112872393998-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044295545jpg-112872393998-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-executive-room-112872417434-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-executive-room-112872417434-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-executive-room-112872417434-jpeg-fs.jpg",
+        "Executive Room",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922413636jpg-112872435923-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922413636jpg-112872435923-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922413636jpg-112872435923-jpeg-fs.jpg",
+        "Washroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922284562jpg-112872452062-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922284562jpg-112872452062-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922284562jpg-112872452062-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922103613jpg-113214303667-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922103613jpg-113214303667-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922103613jpg-113214303667-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214319915-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214319915-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214319915-jpeg-fs.jpg",
+        "hotel-manasa-paradise-bangalore-img_",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214336312-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214336312-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214336312-jpeg-fs.jpg",
+        "hotel-manasa-paradise-bangalore-img_",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044305292jpg-113214352015-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044305292jpg-113214352015-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044305292jpg-113214352015-jpeg-fs.jpg",
+        "Washroom",
+        "ing",
+        ""
+      ],
+      [
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044284957jpg-113214368620-jpeg-th.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044284957jpg-113214368620-jpeg-g.jpg",
+        "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044284957jpg-113214368620-jpeg-fs.jpg",
+        "Interior",
+        "ing",
+        ""
+      ]
+    ],
+    "reco_per": "87",
+    "pty": 478,
+    "ste": "Karnataka",
+    "tgh": [
+      "Holiday",
+      "gostays"
+    ],
+    "frc": 1,
+    "hrl": "",
+    "rmd": [
+      {
+        "boc": 2,
+        "vdr": "ing",
+        "des": "Hotel Manasa Paradise , Bangalore are 1 well furnished and well appointed Deluxe Non AC Room which are equipped with all type of basic room amenities to make customer comfortable stay.Deluxe Non AC Room  consists of basic bathroom amenities as air conditioning ,room service,cable/satellite/Pay TV available, basic bathroom amenities and etc.",
+        "rvw": [],
+        "moc": 3,
+        "img": "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699891356r.jpg",
+        "tnm": "Deluxe Non AC Room",
+        "iml": null,
+        "st": "LIV",
+        "fac": [
+          "TV",
+          "Newspaper",
+          "Cable T V",
+          "WiFi Internet",
+          "24 hour room service"
+        ],
+        "bedtype": "queen",
+        "room_count": 5,
+        "extra_bedtype": "Matress",
+        "type_code": "45000021605",
+        "imagelist": [
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044168886jpg-112631727640-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699835948r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-76699882062r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699976875r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76699983070r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044152541jpg-112631744536-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-room-126915490030-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699803617r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699810865r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-76699854237r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044175433jpg-112631761168-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699923560r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76692631961r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699943102r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699891356r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699913202r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699932795r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699842058r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699848099r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699783898r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044162472jpg-112631779213-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2256-76699955443r.jpg"
+        ],
+        "gallery": [
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699891356r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699891356g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699891356g.jpg",
+            "Washroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699783898r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699783898g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699783898g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76692631961r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76692631961g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76692631961g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699842058r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699842058g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699842058g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699848099r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699848099g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699848099g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699932795r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699932795g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699932795g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699976875r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699976875g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699976875g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699835948r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699835948g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-76699835948g.jpg",
+            "Bathroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-76699854237r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-76699854237g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-76699854237g.jpg",
+            "Washroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699913202r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699913202g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-76699913202g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2256-76699955443r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2256-76699955443g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2256-76699955443g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76699983070r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76699983070g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-76699983070g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699803617r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699803617g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-76699803617g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699810865r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699810865g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-76699810865g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-76699882062r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-76699882062g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-76699882062g.jpg",
+            "Room Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699923560r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699923560g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2251-76699923560g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699943102r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699943102g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2249-76699943102g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044168886jpg-112631727640-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044168886jpg-112631727640-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044168886jpg-112631727640-jpeg-g.jpg",
+            "Bathroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044152541jpg-112631744536-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044152541jpg-112631744536-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044152541jpg-112631744536-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044175433jpg-112631761168-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044175433jpg-112631761168-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044175433jpg-112631761168-jpeg-g.jpg",
+            "washroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044162472jpg-112631779213-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044162472jpg-112631779213-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044162472jpg-112631779213-jpeg-g.jpg",
+            "Room Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-room-126915490030-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-room-126915490030-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-room-126915490030-jpeg-g.jpg",
+            "hotel-manasa-paradise-bangalore-room",
+            "ing",
+            ""
+          ]
+        ],
+        "roomsize": "150 X 150 Sq.ft.",
+        "max_infant": 1,
+        "max_guest": 5,
+        "slb": 0
+      },
+      {
+        "boc": 2,
+        "vdr": "ing",
+        "des": "There are 5 well furnished and well appointed Deluxe AC Rooms in Hotel Manasa Paradise , Bangalore which are equipped with all type basic room amenities to make customer comfortable stay.This type of accommodation provides basic room amenities as air conditioning ,room service,cable/satellite/Pay TV available, basic bathroom amenities and etc.",
+        "rvw": [],
+        "moc": 3,
+        "img": "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2249-87253021729-jpeg-r.jpg",
+        "tnm": "Deluxe Room",
+        "iml": null,
+        "st": "LIV",
+        "fac": [
+          "TV",
+          "Newspaper",
+          "Cable T V",
+          "WiFi Internet",
+          "24 hour room service"
+        ],
+        "bedtype": "queen",
+        "room_count": 5,
+        "extra_bedtype": "Matress",
+        "type_code": "45000021606",
+        "imagelist": [
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2251-87253066944-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631795749-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87253199422-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-77299207184r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631811841-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922358209jpg-112872254036-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87277742304-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044116685jpg-112872219710-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299283704r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2257-87253248084-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-77299197214r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299273683r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044122463jpg-112872271372-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87277647997-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-77299264161r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044110808jpg-112872203409-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299327538r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87253103699-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872237229-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-77299352298r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2252-87253153629-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-77299367860r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2249-87253021729-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299190813r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2254-87277702890-jpeg-r.jpg"
+        ],
+        "gallery": [
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2249-87253021729-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2249-87253021729-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2249-87253021729-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2251-87253066944-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2251-87253066944-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2251-87253066944-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-77299264161r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-77299264161g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2252-77299264161g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299283704r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299283704g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299283704g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2254-87277702890-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2254-87277702890-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2254-87277702890-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87277742304-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87277742304-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87277742304-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87277647997-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87277647997-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87277647997-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2257-87253248084-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2257-87253248084-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2257-87253248084-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-77299197214r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-77299197214g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2258-77299197214g.jpg",
+            "Bathroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-77299207184r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-77299207184g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2259-77299207184g.jpg",
+            "Washroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2252-87253153629-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2252-87253153629-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2252-87253153629-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299273683r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299273683g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2253-77299273683g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299327538r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299327538g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299327538g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-77299367860r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-77299367860g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2255-77299367860g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299190813r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299190813g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2254-77299190813g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87253103699-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87253103699-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2255-87253103699-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87253199422-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87253199422-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-img_2256-87253199422-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-77299352298r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-77299352298g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2257-77299352298g.jpg",
+            "IMG_2257",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631795749-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631795749-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631795749-jpeg-g.jpg",
+            "hotel-manasa-paradise-bangalore-img_",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631811841-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631811841-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112631811841-jpeg-g.jpg",
+            "hotel-manasa-paradise-bangalore-img_",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044110808jpg-112872203409-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044110808jpg-112872203409-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044110808jpg-112872203409-jpeg-g.jpg",
+            "1465044110808.jpg",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044116685jpg-112872219710-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044116685jpg-112872219710-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044116685jpg-112872219710-jpeg-g.jpg",
+            "1465044116685.jpg",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872237229-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872237229-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872237229-jpeg-g.jpg",
+            "hotel-manasa-paradise-bangalore-img_",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922358209jpg-112872254036-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922358209jpg-112872254036-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922358209jpg-112872254036-jpeg-g.jpg",
+            "1482922358209.JPG",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044122463jpg-112872271372-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044122463jpg-112872271372-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044122463jpg-112872271372-jpeg-g.jpg",
+            "1465044122463.jpg",
+            "ing",
+            ""
+          ]
+        ],
+        "roomsize": "",
+        "max_infant": 1,
+        "max_guest": 5,
+        "slb": 0
+      },
+      {
+        "boc": 2,
+        "vdr": "ing",
+        "des": "The Executive AC Room  consists of basic bathroom amenities as air conditioning ,room service,cable/satellite/Pay TV available, basic bathroom amenities and etc.There are 5 well furnished and well appointed Executive AC Rooms in Hotel Manasa Paradise , Bangalore which are equipped with all type basic room amenities to make customer comfortable stay.",
+        "rvw": [],
+        "moc": 3,
+        "img": "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2220-77299213447r.jpg",
+        "tnm": "Executive Room",
+        "iml": null,
+        "st": "LIV",
+        "fac": [
+          "TV",
+          "Newspaper",
+          "Cable T V",
+          "24 hour room service"
+        ],
+        "bedtype": "king",
+        "room_count": 5,
+        "extra_bedtype": "Matress",
+        "type_code": "45000021627",
+        "imagelist": [
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044284957jpg-113214368620-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214319915-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044305292jpg-113214352015-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2227-77299334497r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044295545jpg-112872393998-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2219-77299254962r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922103613jpg-113214303667-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2229-77299291125r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2223-77299374709r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2220-77299213447r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room_room_jpg-bangalore-112872383477-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-bathroom1_room_jpg-bangalore-112872411004-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2218-77299300604r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2230-77299222958r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-executive-room-112872417434-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2217-77299358167r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922284562jpg-112872452062-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2224-77299181072r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room2_room_jpg-bangalore-112872339620-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-bathroom_room_jpg-bangalore-112872388360-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214336312-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2228-77299344064r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872345580-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922413636jpg-112872435923-jpeg-r.jpg",
+          "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2231-77299232637r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044314604jpg-112872367349-jpeg-r.jpg",
+          "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room1_room_jpg-bangalore-112872362474-jpeg-r.jpg"
+        ],
+        "gallery": [
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2220-77299213447r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2220-77299213447g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2220-77299213447g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2219-77299254962r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2219-77299254962g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2219-77299254962g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2218-77299300604r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2218-77299300604g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2218-77299300604g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2217-77299358167r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2217-77299358167g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2217-77299358167g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2223-77299374709r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2223-77299374709g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2223-77299374709g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2224-77299181072r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2224-77299181072g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2224-77299181072g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2227-77299334497r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2227-77299334497g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2227-77299334497g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2228-77299344064r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2228-77299344064g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2228-77299344064g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2230-77299222958r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2230-77299222958g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2230-77299222958g.jpg",
+            "Bathroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2231-77299232637r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2231-77299232637g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2231-77299232637g.jpg",
+            "Washroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2229-77299291125r.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2229-77299291125g.jpg",
+            "https://gos3.ibcdn.com/hotel-manasa-paradise-bangalore-img_2229-77299291125g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room2_room_jpg-bangalore-112872339620-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room2_room_jpg-bangalore-112872339620-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room2_room_jpg-bangalore-112872339620-jpeg-r.jpg",
+            "Hotel Manasa Paradise-Executive Double Room2_room_jpg, Bangalore",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872345580-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872345580-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-112872345580-jpeg-g.jpg",
+            "hotel-manasa-paradise-bangalore-img_",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room1_room_jpg-bangalore-112872362474-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room1_room_jpg-bangalore-112872362474-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room1_room_jpg-bangalore-112872362474-jpeg-r.jpg",
+            "Hotel Manasa Paradise-Executive Double Room1_room_jpg, Bangalore",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044314604jpg-112872367349-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044314604jpg-112872367349-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044314604jpg-112872367349-jpeg-g.jpg",
+            "Bathroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room_room_jpg-bangalore-112872383477-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room_room_jpg-bangalore-112872383477-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-room_room_jpg-bangalore-112872383477-jpeg-r.jpg",
+            "Hotel Manasa Paradise-Executive Double Room_room_jpg, Bangalore",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-bathroom_room_jpg-bangalore-112872388360-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-bathroom_room_jpg-bangalore-112872388360-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-bathroom_room_jpg-bangalore-112872388360-jpeg-r.jpg",
+            "Hotel Manasa Paradise-Executive Double Bathroom_room_jpg, Bangalore",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044295545jpg-112872393998-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044295545jpg-112872393998-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044295545jpg-112872393998-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-bathroom1_room_jpg-bangalore-112872411004-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-bathroom1_room_jpg-bangalore-112872411004-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-executive-double-bathroom1_room_jpg-bangalore-112872411004-jpeg-r.jpg",
+            "Hotel Manasa Paradise-Executive Double Bathroom1_room_jpg, Bangalore",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-executive-room-112872417434-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-executive-room-112872417434-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-executive-room-112872417434-jpeg-g.jpg",
+            "Executive Room",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922413636jpg-112872435923-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922413636jpg-112872435923-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922413636jpg-112872435923-jpeg-g.jpg",
+            "Washroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922284562jpg-112872452062-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922284562jpg-112872452062-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922284562jpg-112872452062-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922103613jpg-113214303667-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922103613jpg-113214303667-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1482922103613jpg-113214303667-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214319915-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214319915-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214319915-jpeg-g.jpg",
+            "hotel-manasa-paradise-bangalore-img_",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214336312-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214336312-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-hotel-manasa-paradise-bangalore-img_-113214336312-jpeg-g.jpg",
+            "hotel-manasa-paradise-bangalore-img_",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044305292jpg-113214352015-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044305292jpg-113214352015-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044305292jpg-113214352015-jpeg-g.jpg",
+            "Washroom",
+            "ing",
+            ""
+          ],
+          [
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044284957jpg-113214368620-jpeg-r.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044284957jpg-113214368620-jpeg-g.jpg",
+            "https://cdn1.goibibo.com/hotel-manasa-paradise-bangalore-1465044284957jpg-113214368620-jpeg-g.jpg",
+            "Interior",
+            "ing",
+            ""
+          ]
+        ],
+        "roomsize": "200 X 200 Sq.ft.",
+        "max_infant": 1,
+        "max_guest": 5,
+        "slb": 0
+      }
+    ],
+    "hsr": 1,
+    "ofl": [],
+    "hlt": [
+      "Hotel"
+    ],
+    "tar": "0",
+    "tac": 0,
+    "htn": "Hotel Manasa Paradise ",
+    "add": "129, Cubbonpet Main road, Near to Avenue Road  Post office Bangalore-2,",
+    "htc": "8019609754104035889",
+    "fm": [
+      "Free Internet",
+      "Front desk",
+      "Room Service",
+      "Laundry Service",
+      "Internet"
+    ],
+    "cty": "Bangalore",
+    "Hrl": null,
+    "cnt": "India",
+    "amy": {
+      "Rm": [
+        "Room Service (24 Hours)"
+      ],
+      "nmp": [
+        "Newspapers In Lobby",
+        "Doctor on Call",
+        "24 Hour Check in-Icon",
+        "FREE PARKING FACILITIES",
+        "Electrical Adapters Available",
+        "wi fi",
+        "Charging points",
+        "Public Restrooms",
+        "CCTV",
+        "Wifi",
+        "Free Internet Access "
+      ],
+      "Gen": [
+        "Lift / Elevator",
+        "CCTV",
+        "Power Backup"
+      ],
+      "Din": null,
+      "imp": {
+        "Lift / Elevator": 17,
+        "Front Desk": 7,
+        "Room Service (24 Hours)": 22,
+        "Laundry Service Available": 16,
+        "Power Backup": 21
+      },
+      "Int": [
+        "Wifi",
+        "Free Internet Access "
+      ],
+      "Ser": [
+        "Front Desk",
+        "Newspapers In Lobby",
+        "Doctor on Call",
+        "Laundry Service Available"
+      ]
+    },
+    "des": "",
+    "loc": "Gandhi Nagar/ Majestic / City Railway Station",
+    "hsf": "",
+    "gnt": 266,
+    "drl": "http://www.goibibo.com/hotels/detail/Bangalore/hn/6771549831164675055/8019609754104035889/na/hq/",
+    "lfl": [
+      "nosp",
+      "bc",
+      "nogym",
+      "nobs",
+      "freeint",
+      "norest"
+    ],
+    "adc": 0,
+    "typ": "gostays",
+    "txt": [],
+    "promo": null,
+    "cit": "1200",
+    "cot": "1200",
+    "isRedHotel": false,
+    "valueAddedServices": [
+      "Free pick up",
+      "Couple Friendly",
+      "Free Breakfast"
+    ],
+      "restaurants": {
+      "count": 2,
+      "details": [
+        {
+          "name": "Nadhana Pure Veg Restaurant",
+          "description": "This Restaurant serves Chinese and Andhra meals.",
+          "isPureVeg": true,
+          "timing": ""
+        },
+        {
+          "name": "",
+          "description": "",
+          "isPureVeg": false,
+          "timing": ""
+        }
+      ]
+    },
+    "breakfast": {
+      "type": "Set Menu",
+      "menu": "1 South Indian Dish, Tea / Coffee, 2 Bread Slices, Butter and Jam Sachets"
+    },
+    "whoPrefersIt": [
+      "People visiting Mainpal Hospital",
+      "test",
+      "test"
+    ],
+    "whyThisHotel": [
+      "Best breakfast , only hotel in koramanagala to be rate 4.9",
+      "test",
+      "test"
+    ],
+     "staffLanguage": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+   "pointsOfInterest": [
+      {
+        "heading": "Major travel points ",
+        "data": [
+          {
+            "subheading": "Airport",
+            "magnitude": 1,
+            "unit": "KM",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "subheading": "City Railway Station",
+            "magnitude": 15,
+            "unit": "min",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "subheading": "ICICI ATM",
+            "magnitude": 1,
+            "unit": "KM",
+            "latitude": 0,
+            "longitude": 0
+          }
+        ]
+      },
+      {
+        "heading": "Bus Boarding Points",
+        "data": [
+          {
+            "subheading": "St. John’s Nus Stop",
+            "magnitude": 1,
+            "unit": "KM",
+            "latitude": 0,
+            "longitude": 0
+          },
+          {
+            "subheading": "Madiwala Bus Stand",
+            "magnitude": 15,
+            "unit": "min",
+            "latitude": 0,
+            "longitude": 0
+          }        ]
+      }
+    ],
+    "utilitiesNearby": [
+      {
+        "text": "ICICI ATM",
+        "magnitude": 1,
+        "unit": "KM"
+      },
+      {
+        "text": "ICICI ATM",
+        "magnitude": 15,
+        "unit": "min"
+      },
+      {
+        "text": "ICICI ATM",
+        "magnitude": 1,
+        "unit": "KM"
+      }
+    ]
+
+
+  }
+}
+
