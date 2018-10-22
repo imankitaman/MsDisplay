@@ -1,98 +1,98 @@
 {
-   "BpList": [
-       {
-           "LocationId": 66977,
-           "LocationName": "Hinje Wadi"
-       },
-       {
-           "LocationId": 90016,
-           "LocationName": "Wakadewadi"
-       },
-       {
-           "LocationId": 89672,
-           "LocationName": "Wakad"
-       },
-       {
-           "LocationId": 87848,
-           "LocationName": "Balewadi"
-       },
-       {
-           "LocationId": 74540,
-           "LocationName": "Kothrud"
-       },
-       {
-           "LocationId": 92591,
-           "LocationName": "Chandani Chowk"
-       },
-       {
-           "LocationId": 67159,
-           "LocationName": "swargate"
-       },
-       {
-           "LocationId": 69433,
-           "LocationName": "Aundh"
-       }
-   ],
-   "DpList": [
-       {
-           "LocationId": 66510,
-           "LocationName": "Andheri East"
-       },
-       {
-           "LocationId": 66512,
-           "LocationName": "Vile Parle East"
-       },
-       {
-           "LocationId": 66515,
-           "LocationName": "Bandra East"
-       },
-       {
-           "LocationId": 66514,
-           "LocationName": "Santacruz East"
-       },
-       {
-           "LocationId": 66516,
-           "LocationName": "Nerul"
-       },
-       {
-           "LocationId": 92759,
-           "LocationName": "Kharghar"
-       },
-       {
-           "LocationId": 66206,
-           "LocationName": "Vashi"
-       },
-       {
-           "LocationId": 66543,
-           "LocationName": "Malad East"
-       },
-       {
-           "LocationId": 66542,
-           "LocationName": "Goregaon East"
-       },
-       {
-           "LocationId": 66545,
-           "LocationName": "Borivali East"
-       },
-       {
-           "LocationId": 66544,
-           "LocationName": "Kandivali East"
-       },
-       {
-           "LocationId": 73781,
-           "LocationName": "Kalamboli"
-       },
-       {
-           "LocationId": 66551,
-           "LocationName": "Sion"
-       },
-       {
-           "LocationId": 66550,
-           "LocationName": "Jogeshwari East"
-       },
-       {
-           "LocationId": 68286,
-           "LocationName": "Chembur East"
-       }
-   ]
+   "bpList": [
+       {
+           "locationId": 66977,
+           "locationName": "Hinje Wadi"
+       },
+       {
+           "locationId": 90016,
+           "locationName": "Wakadewadi"
+       },
+       {
+           "locationId": 89672,
+           "locationName": "Wakad"
+       },
+       {
+           "locationId": 87848,
+           "locationName": "Balewadi"
+       },
+       {
+           "locationId": 74540,
+           "locationName": "Kothrud"
+       },
+       {
+           "locationId": 92591,
+           "locationName": "Chandani Chowk"
+       },
+       {
+           "locationId": 67159,
+           "locationName": "swargate"
+       },
+       {
+           "locationId": 69433,
+           "locationName": "Aundh"
+       }
+   ],
+   "dpList": [
+       {
+           "locationId": 66510,
+           "locationName": "Andheri East"
+       },
+       {
+           "locationId": 66512,
+           "locationName": "Vile Parle East"
+       },
+       {
+           "locationId": 66515,
+           "locationName": "Bandra East"
+       },
+       {
+           "locationId": 66514,
+           "locationName": "Santacruz East"
+       },
+       {
+           "locationId": 66516,
+           "locationName": "Nerul"
+       },
+       {
+           "locationId": 92759,
+           "locationName": "Kharghar"
+       },
+       {
+           "locationId": 66206,
+           "locationName": "Vashi"
+       },
+       {
+           "locationId": 66543,
+           "locationName": "Malad East"
+       },
+       {
+           "locationId": 66542,
+           "locationName": "Goregaon East"
+       },
+       {
+           "locationId": 66545,
+           "locationName": "Borivali East"
+       },
+       {
+           "locationId": 66544,
+           "locationName": "Kandivali East"
+       },
+       {
+           "locationId": 73781,
+           "locationName": "Kalamboli"
+       },
+       {
+           "locationId": 66551,
+           "locationName": "Sion"
+       },
+       {
+           "locationId": 66550,
+           "locationName": "Jogeshwari East"
+       },
+       {
+           "locationId": 68286,
+           "locationName": "Chembur East"
+       }
+   ]
 }
