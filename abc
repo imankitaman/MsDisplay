@@ -1,193 +1,98 @@
 {
-    "BpList": {
-        "66206": "Vashi",
-        "66207": "Chembur",
-        "66208": "Bendi Bazar",
-        "66432": "Panvel",
-        "66500": "Andheri",
-        "66502": "Goregaon",
-        "66509": "Andheri West",
-        "66510": "Andheri East",
-        "66512": "Vile Parle East",
-        "66514": "Santacruz East",
-        "66515": "Bandra East",
-        "66516": "Nerul",
-        "66522": "Powai",
-        "66525": "Sion West",
-        "66526": "Ghatkoper West",
-        "66527": "Vikroli West",
-        "66528": "Kanjurmarg West",
-        "66529": "Bhandup West",
-        "66530": "Mulund West",
-        "66532": "Thane",
-        "66542": "Goregaon East",
-        "66543": "Malad East",
-        "66544": "Kandivali East",
-        "66545": "Borivali East",
-        "66546": "Dahisar East",
-        "66547": "Kashimira East",
-        "66548": "Mira Road East",
-        "66550": "Jogeshwari East",
-        "66551": "Sion",
-        "66552": "Dadar",
-        "66553": "Crawford Market",
-        "66557": "Mira Road",
-        "66558": "Dadar East",
-        "66571": "Mumbai Central",
-        "66728": "Ghatkopar",
-        "66729": "Airoli",
-        "66985": "Wadibander",
-        "66991": "Bhayander",
-        "67116": "Vikhroli(E)",
-        "67125": "Ghodbundar",
-        "67130": "Worli",
-        "67158": "Kanjurmarg East",
-        "67165": "Kanjurmarg",
-        "67168": "Sion East",
-        "67376": "Kopar Khainar",
-        "67741": "Ghatkopar(E)",
-        "67765": "Lalbaug",
-        "67938": "Dadar West",
-        "68008": "Borivali West",
-        "68161": "Kurla",
-        "68286": "Chembur (E)",
-        "68311": "Sion (E)",
-        "68340": "Borivali",
-        "68676": "Bandra",
-        "68678": "Vile Parle",
-        "68680": "Jogeshwari",
-        "68682": "Malad",
-        "68683": "Kandivali",
-        "69532": "Kalwa Naka",
-        "69703": "Dahisar",
-        "69741": "Mankhurd",
-        "69743": "Charkop",
-        "70547": "Mahalaxmi",
-        "70559": "Kamothe",
-        "71150": "Lonavala",
-        "71151": "Digha",
-        "71782": "Manor",
-        "71783": "National Park",
-        "71961": "Byculla",
-        "73779": "Mulund (E)",
-        "73781": "Kalamboli",
-        "73782": "Kamothe Signal",
-        "73785": "Nerul (West)",
-        "73786": "Vashi (West)",
-        "73787": "Mankhurd (West)",
-        "73788": "Chembur (West)",
-        "73796": "Belapur C.B.D",
-        "73797": "khar (E)",
-        "77171": "Wakad",
-        "78854": "Gokulanand Hotel",
-        "78982": "Kalamboli Mc Donolds Hotel",
-        "78994": "Sanpada",
-        "79493": "Borivali (E) National Park",
-        "79848": "C B D",
-        "80093": "Khalapur Toll Plaza",
-        "80116": "Lower Parel, Delisle Road",
-        "80119": "Chembur,Maitri Park",
-        "81269": "Cheddanagar",
-        "81560": "Chandani Chowk",
-        "82845": "Mumbai International Airport",
-        "83172": "Nalasopara",
-        "83250": "Cotton Green Railway Station",
-        "83261": "Elphistone",
-        "83690": "Parel",
-        "84790": "King Circle",
-        "85515": "Sion Circle Cinemax",
-        "85517": "Nerul (London Pilsner Company)",
-        "85518": "Kharghar (Three Star Hotel)",
-        "85751": "Bhayendar East",
-        "86856": "Meera Road",
-        "87640": "Charoti Naka",
-        "87844": "Vasai-Phata",
-        "92759": "Kharghar",
-        "92773": "Santacruz",
-        "92777": "Thane (W)",
-        "92929": "Delai Road",
-        "92933": "Virar Phata",
-        "92938": "Turbhe",
-        "92940": "Rabale",
-        "93007": "Kurla (East)",
-        "95446": "khanda colony",
-        "95450": "Others",
-        "95570": "C.S.T. Station",
-        "197120": "Carnac Bunder",
-        "201670": "Kalamboli West",
-        "201679": "Talegaon",
-        "202443": "Anushakti Nagar",
-        "202446": "Sakinaka"
-    },
-    "DpList": {
-        "66051": "Pune",
-        "66518": "Warje",
-        "66920": "Shivaji Nagar",
-        "66921": "Ideal Colony",
-        "66922": "Nal Stop",
-        "66923": "Paud Road",
-        "66924": "Deccan gymkhana",
-        "66926": "Yerwada",
-        "66927": "Viman Nagar",
-        "66940": "Railway Station",
-        "66943": "Hadapsar",
-        "66977": "Hinje Wadi",
-        "66978": "Jagtap Dairy",
-        "67159": "swargate",
-        "67442": "Sangvi Phata ",
-        "67455": "Katraj",
-        "67668": "Jahangir Hospital",
-        "67925": "Nashik Phata",
-        "68010": "Nigdi",
-        "68116": "PIMPRI CHINCHWAD",
-        "68117": "Vallabhnagar",
-        "68325": "Fatima Nagar",
-        "68667": "Sangamwadi",
-        "68669": "Deccan",
-        "68670": "Pashan",
-        "69120": "Padmavati Parking",
-        "69135": "Brahman chowk",
-        "69433": "Aundh",
-        "69937": "Lonavala",
-        "71307": "Bhusari Colony",
-        "71314": "Padmavati",
-        "71315": "Neeta Baner",
-        "71880": "Wagholi",
-        "71984": "Vishal Nagar",
-        "71988": "Kalyan",
-        "74540": "Kothrud",
-        "75030": "Pashan Circle",
-        "75459": "Baner Phata",
-        "75746": "Nagdi",
-        "75967": "Akurdi",
-        "76015": "Kharadi",
-        "76880": "Bavdhan",
-        "79291": "Baner Sadanand Hotel",
-        "79541": "Hinje Wadi Bridge",
-        "82404": "Chinchwad",
-        "83440": "Lonikand",
-        "84273": "Wai Phata",
-        "84880": "Wadgaon Bridge",
-        "86201": "Ginger Hotel",
-        "87848": "Balewadi",
-        "89672": "Wakad",
-        "90016": "Wakadewadi",
-        "91511": "Karvenagar",
-        "91516": "Navle Bridge",
-        "91794": "Bremen Chowk",
-        "92591": "Chandani Chowk",
-        "92594": "Jagtap Dairy Chowk",
-        "95415": "Varja Bridge",
-        "95417": "Tale gaon",
-        "95455": "Others",
-        "201438": "Baner",
-        "201439": "Balewadi Phata",
-        "201440": "Pune University",
-        "202374": "Baramati",
-        "202380": "Bhigwan",
-        "202382": "Jejuri",
-        "202388": "Nira",
-        "202390": "Uruli Kanchan",
-        "202392": "Yavat"
-    }
+   "BpList": [
+       {
+           "LocationId": 66977,
+           "LocationName": "Hinje Wadi"
+       },
+       {
+           "LocationId": 90016,
+           "LocationName": "Wakadewadi"
+       },
+       {
+           "LocationId": 89672,
+           "LocationName": "Wakad"
+       },
+       {
+           "LocationId": 87848,
+           "LocationName": "Balewadi"
+       },
+       {
+           "LocationId": 74540,
+           "LocationName": "Kothrud"
+       },
+       {
+           "LocationId": 92591,
+           "LocationName": "Chandani Chowk"
+       },
+       {
+           "LocationId": 67159,
+           "LocationName": "swargate"
+       },
+       {
+           "LocationId": 69433,
+           "LocationName": "Aundh"
+       }
+   ],
+   "DpList": [
+       {
+           "LocationId": 66510,
+           "LocationName": "Andheri East"
+       },
+       {
+           "LocationId": 66512,
+           "LocationName": "Vile Parle East"
+       },
+       {
+           "LocationId": 66515,
+           "LocationName": "Bandra East"
+       },
+       {
+           "LocationId": 66514,
+           "LocationName": "Santacruz East"
+       },
+       {
+           "LocationId": 66516,
+           "LocationName": "Nerul"
+       },
+       {
+           "LocationId": 92759,
+           "LocationName": "Kharghar"
+       },
+       {
+           "LocationId": 66206,
+           "LocationName": "Vashi"
+       },
+       {
+           "LocationId": 66543,
+           "LocationName": "Malad East"
+       },
+       {
+           "LocationId": 66542,
+           "LocationName": "Goregaon East"
+       },
+       {
+           "LocationId": 66545,
+           "LocationName": "Borivali East"
+       },
+       {
+           "LocationId": 66544,
+           "LocationName": "Kandivali East"
+       },
+       {
+           "LocationId": 73781,
+           "LocationName": "Kalamboli"
+       },
+       {
+           "LocationId": 66551,
+           "LocationName": "Sion"
+       },
+       {
+           "LocationId": 66550,
+           "LocationName": "Jogeshwari East"
+       },
+       {
+           "LocationId": 68286,
+           "LocationName": "Chembur East"
+       }
+   ]
 }
